@@ -1,1 +1,2 @@
 right-click a control to select "Show Baseline", can get the views in a horizontal alignment.
+project->app->res->values->strings.xml, "Open Editer" at the top of the window. can add string. 'Key' as the string name and 'Default Value' as the string content
