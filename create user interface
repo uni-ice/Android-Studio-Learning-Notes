@@ -1,1 +1,4 @@
-
+After create a project in Android Studio
+It is time to create the user interface.
+can just drag controls into design editor -- path: project->app->src->res->layout->xml file
+can use mouse to drag to every where in the design editor, the Zoom button can gives a better control.
